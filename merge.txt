@@ -1,4 +1,9 @@
 test merge
 
+<<<<<<< HEAD
 hello world
 
+=======
+hello
+hi
+>>>>>>> 04570fd53988004d0bc6135e4fcfea5ee454e10e
